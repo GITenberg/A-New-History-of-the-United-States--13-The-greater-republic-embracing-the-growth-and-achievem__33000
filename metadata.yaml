@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '656'
     url: http://www.gutenberg.org/2009/agents/656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33000#A-New-History-of-the-United-States--13-The-greater-republic-embracing-the-growth-and-achievem_
 gutenberg_issued: '2010-07-18'
 gutenberg_type: Text
 identifiers:
